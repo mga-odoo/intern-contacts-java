@@ -2,7 +2,7 @@
 <Context>
 
   <Resource name="jdbc/contactbook" auth="Container"
-    type="javax.sql.DataSource" username="mantavyagajjar" password="shreeji"
+    type="javax.sql.DataSource" username="username" password="*****"
     driverClassName="org.postgresql.Driver"
     url="jdbc:postgresql://localhost:5432/stable" maxIdle="4" maxTotal="8"/>
 
